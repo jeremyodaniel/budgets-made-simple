@@ -9,7 +9,7 @@
   After opening the app, simply start entering transactions. Very intuitive!
 
   ## Installation Guide
-  [Budgets Made Simple](https://git.heroku.com/rocky-gorge-14136.git)
+  [Budgets Made Simple](https://rocky-gorge-14136.herokuapp.com)
 
   ## Licenses
   MIT
