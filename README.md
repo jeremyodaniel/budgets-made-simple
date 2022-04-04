@@ -9,6 +9,7 @@
   After opening the app, simply start entering transactions. Very intuitive!
 
   ## Installation Guide
+  Link to the app:
   [Budgets Made Simple](https://rocky-gorge-14136.herokuapp.com)
 
   ## Licenses
