@@ -3,7 +3,8 @@
   ## Project Description
   This simple web app allows users to create transactions to track their money usage over time. It allows for both debit and credit transactions to the ledger along with a brief description of the transaction. A balance is calculated after each transaction is entered. This is perfect for tracking transactions while on the go!
   
-  !(public/images/screencapture.png)
+  ![Image](public/images/screencapture.png)
+  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 
   ## Usage
