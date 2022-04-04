@@ -6,7 +6,7 @@
   ![Image](./public/images/screencapture.png)
 
   ## Usage
-  After opneing the app, simply start entering transactions. Very intuitive!
+  After opening the app, simply start entering transactions. Very intuitive!
 
   ## Installation Guide
   [Budgets Made Simple](https://git.heroku.com/rocky-gorge-14136.git)
