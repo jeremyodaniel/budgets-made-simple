@@ -3,7 +3,7 @@
   ## Project Description
   This simple web app allows users to create transactions to track their money usage over time. It allows for both debit and credit transactions to the ledger along with a brief description of the transaction. A balance is calculated after each transaction is entered. This is perfect for tracking transactions while on the go!
   
-  !(/public/images/screencapture.png)
+  !(public/images/screencapture.png)
 
 
   ## Usage
