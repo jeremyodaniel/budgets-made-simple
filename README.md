@@ -11,6 +11,14 @@
   ## Installation Guide
   Link to the app:
   [Budgets Made Simple](https://rocky-gorge-14136.herokuapp.com)
+  
+  ## Technologies
+  * Node
+  * Express
+  * Mongo DB
+  * Mongoose
+  * JavaScript
+  * PWA
 
   ## Licenses
   MIT
